@@ -3,5 +3,9 @@
     "functional": "cpp",
     "chrono": "cpp"
   },
-  "github.copilot.editor.enableAutoCompletions": false
+  "github.copilot.editor.enableAutoCompletions": false,
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "github.copilot.enable": {
+    "*": false
+  }
 }

@@ -69,7 +69,7 @@
 | 64 | Tree | Binary Tree Level Order Traversal | Medium | 11:21 | ok | time loss due to copy pass without & |
 | 65 | Tree | Serialize and Deserialize Binary Tree |  |  |  | |
 | 66 | Tree | Subtree of Another Tree | Easy | 29:30 | retry | took too much time + find better solutions |
-| 67 | Tree | Construct Binary Tree from Preorder and Inorder Traversal |  |  |  | |
+| 67 | Tree | Construct Binary Tree from Preorder and Inorder Traversal | Medium | 91:28 | retry | didn't know the meaning of preorder / inorder traversal of trees / didn't come up the ansewr in 10 mins |
 | 68 | Tree | Validate Binary Search Tree |  |  |  | |
 | 69 | Tree | Kth Smallest Element in a BST |  |  |  | |
 | 70 | Tree | Lowest Common Ancestor of BST |  |  |  | |
