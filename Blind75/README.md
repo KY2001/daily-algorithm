@@ -48,7 +48,7 @@
 | 43 | Linked List | Merge K Sorted Lists | Hard | 35:38 | retry | good problem to know the operation of pointer |
 | 44 | Linked List | Remove Nth Node From End Of List | Medium | 10:54 | ok | |
 | 45 | Linked List | Reorder List | Medium | 13:40 | retry | solve with space O(1) |
-| 46 | Matrix | Set Matrix Zeroes | Medum | 14:38 | retry | failed |
+| 46 | Matrix | Set Matrix Zeroes | Medium | 14:38 | retry | failed |
 | 47 | Matrix | Spiral Matrix | Medium | 25:12 | retry | made too many bugs |
 | 48 | Matrix | Rotate Image | Medium | 30:20 | retry | made too many bugs |
 | 49 | Matrix | Word Search | Medium | 20:19 | retry | can't estimate time complexity |
@@ -60,22 +60,22 @@
 | 55 | String | Valid Parentheses | Easy | 15:24 | ok | misunderstand the problem statement so it took much time |
 | 56 | String | Valid Palindrome | Easy | 16:00 | ok | took too much time |
 | 57 | String | Longest Palindromic Substring | Medium | 16:45 | retry | find the solution which requires O(1) space. |
-| 58 | String | Palindromic Substrings |  |  |  | |
-| 59 | String | Encode and Decode Strings |  |  |  | |
+| 58 | String | Palindromic Substrings | Medium |  |  | |
+| 59 | String | Encode and Decode Strings | Medium |  |  | |
 | 60 | Tree | Maximum Depth of Binary Tree | Easy | 07:18 | ok | |
 | 61 | Tree | Same Tree | Easy | 11:40 | ok | |
 | 62 | Tree | Invert/Flip Binary Tree | Easy | 04:56 | ok | |
 | 63 | Tree | Binary Tree Maximum Path Sum | Hard | 28:00 | retry | took too much time. |
 | 64 | Tree | Binary Tree Level Order Traversal | Medium | 11:21 | ok | time loss due to copy pass without & |
-| 65 | Tree | Serialize and Deserialize Binary Tree |  |  |  | |
+| 65 | Tree | Serialize and Deserialize Binary Tree | Hard |  |  | |
 | 66 | Tree | Subtree of Another Tree | Easy | 29:30 | retry | took too much time + find better solutions |
 | 67 | Tree | Construct Binary Tree from Preorder and Inorder Traversal | Medium | 91:28 | retry | didn't know the meaning of preorder / inorder traversal of trees / didn't come up the ansewr in 10 mins |
-| 68 | Tree | Validate Binary Search Tree |  |  |  | |
-| 69 | Tree | Kth Smallest Element in a BST |  |  |  | |
-| 70 | Tree | Lowest Common Ancestor of BST |  |  |  | |
-| 71 | Tree | Implement Trie (Prefix Tree) |  |  |  | |
-| 72 | Tree | Add and Search Word |  |  |  | |
-| 73 | Tree | Word Search II |  |  |  | |
-| 74 | Heap | Merge K Sorted Lists |  |  |  | |
-| 75 | Heap | Top K Frequent Elements |  |  |  | |
-| 76 | Heap | Find Median from Data Stream |  |  |  | |
+| 68 | Tree | Validate Binary Search Tree | Medium |  |  | |
+| 69 | Tree | Kth Smallest Element in a BST | Medium |  |  | |
+| 70 | Tree | Lowest Common Ancestor of BST | Medium |  |  | |
+| 71 | Tree | Implement Trie (Prefix Tree) | Medium |  |  | |
+| 72 | Tree | Add and Search Word | Medium |  |  | |
+| 73 | Tree | Word Search II | Hard |  |  | |
+| 74 | Heap | Merge K Sorted Lists | Hard |  |  | |
+| 75 | Heap | Top K Frequent Elements | Medium |  |  | |
+| 76 | Heap | Find Median from Data Stream | Hard |  |  | |
