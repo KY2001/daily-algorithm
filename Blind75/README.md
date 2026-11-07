@@ -77,5 +77,5 @@
 | 72 | Tree | Add and Search Word | Medium |  |  | |
 | 73 | Tree | Word Search II | Hard |  |  | |
 | 74 | Heap | Merge K Sorted Lists | Hard |  |  | |
-| 75 | Heap | Top K Frequent Elements | Medium |  |  | |
+| 75 | Heap | Top K Frequent Elements | Medium | 09:03 | ok | |
 | 76 | Heap | Find Median from Data Stream | Hard |  |  | |
